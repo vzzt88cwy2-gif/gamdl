@@ -198,3 +198,4 @@ class AppleMusicSongDownloader:
             download_item.media.tags,
             cover_bytes,
         )
+gamdl "https://music.apple.com/us/album/never-gonna-give-you-up-2022-remaster/1624945511?i=1624945512"

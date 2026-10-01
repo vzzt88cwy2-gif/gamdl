@@ -287,3 +287,4 @@ class AppleMusicDownloader:
         if temp_path.exists() and temp_path.is_dir():
             shutil.rmtree(temp_path, ignore_errors=True)
             log.debug("success")
+gamdl "https://music.apple.com/us/album/never-gonna-give-you-up-2022-remaster/1624945511?i=1624945512"
